@@ -1,0 +1,8 @@
+1. WAP to print all Fibonacci series within a range using for loops. Range you'll have to input.
+
+2. WAP to find Max and Min element in an array.
+
+3. WAP to find the occurrence of each element in an array.
+
+4. WAP to reverse an array.
+
